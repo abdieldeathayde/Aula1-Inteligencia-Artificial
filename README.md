@@ -23,4 +23,4 @@ Este repositório contém exercícios práticos que abordam conceitos fundamenta
 - Operadores: Operações matemáticas básicas e conversão de unidades de tempo.
 - Variáveis: Manipulação e conversão de tipos de dados.
 
-Esses exercícios são projetados para fortalecer suas habilidades de programação em Python e fornecer uma base sólida para estudos mais avançados em Inteligência Artificial.
+Esses exercícios são projetados para fortalecer suas habilidades de programação em Python e fornecer uma base sólida para estudos mais avançados em Inteligência Artificia.
